@@ -53,12 +53,13 @@ ext {
     libraryName = 'MyLibrary'
     artifact = 'mylibrary'
 
-    libraryDescription = 'This view is a container that supports diagonal scroll and fling gesture. It is based on AOSP HorizontalScrollView.'
+    libraryDescription = 'This view is a container that supports diagonal scroll and fling gesture. ' +
+            'It is based on AOSP HorizontalScrollView.'
 
     siteUrl = 'https://github.com/mihabgit/mylibrary'
     gitUrl = 'https://github.com/mihabgit/mylibrary.git'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.2'
 
     developerId = 'mihab'
     developerName = 'Imran Mihab'
